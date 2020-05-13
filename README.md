@@ -1,2 +1,3 @@
 # prettier-config
-My preferred prettier config 
+
+This is my preferred prettier configuration.

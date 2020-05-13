@@ -1,0 +1,16 @@
+{
+  "name": "@kenny407/prettier-config",
+  "version": "1.0.0",
+  "description": "My preferred prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenny407/prettier-config.git"
+  },
+  "author": "Kenny Alvizuris <kennyalvizuris@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kenny407/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Kenny407/prettier-config#readme"
+}
